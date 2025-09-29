@@ -33,7 +33,7 @@
     "website": "11-309j-sites-in-sight-photography-as-inquiry-fall-2003"
   },
   "course_title": "Sites in Sight: Photography as Inquiry",
-  "hide_download": false,
+  "hide_download": true,
   "course_description": "This course explores photography as a disciplined way of seeing, of investigating landscapes and expressing ideas. Readings, observations, and photographs form the basis of discussions on landscape, light, significant detail, place, poetics, narrative, and how photography can inform design and planning, among other issues.",
   "department_numbers": [
     "11",
@@ -45,6 +45,7 @@
     "content": "1f672f11-5493-3392-f617-5288faa3465d",
     "website": "11-309j-sites-in-sight-photography-as-inquiry-fall-2003"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Media Assignments with Examples",
     "Written Assignments"

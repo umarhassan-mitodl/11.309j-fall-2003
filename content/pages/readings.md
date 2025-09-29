@@ -3,6 +3,8 @@ content_type: page
 description: This section provides a bibliography of required readings for the course
   and additional readings organized by session.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -23,7 +25,7 @@ Required readings are on reserve in the Rotch Library.
 
 Spirn. *Language of Landscape.* Pp. 3-81.
 
-{{% resource_link "2de450a8-8b99-44c8-a71f-c618cd5976c4" "Meyerowitz, Joel. \"Nature of Cities.\"" %}}
+[Meyerowitz, Joel. "Nature of Cities."](http://www.joelmeyerowitz.com/)
 
 ### Further Readings:
 

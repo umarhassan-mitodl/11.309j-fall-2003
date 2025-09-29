@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/f3669f720c3a60d085f87488761463e0_latonyagreen.jpg
 file_size: 47698
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: Photo by Latonya Green. Used with permission.
