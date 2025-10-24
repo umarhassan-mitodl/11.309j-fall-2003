@@ -3,8 +3,6 @@ content_type: page
 description: This section provides a bibliography of required readings for the course
   and additional readings organized by session.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
