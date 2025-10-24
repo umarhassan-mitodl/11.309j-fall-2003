@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/c992cd9638f485b486a627d9c190cde4_mikehouck.jpg
 file_size: 55879
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: Photo by Mike Houck. Used with permission.
