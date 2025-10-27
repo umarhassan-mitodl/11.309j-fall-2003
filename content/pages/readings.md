@@ -23,7 +23,7 @@ Required readings are on reserve in the Rotch Library.
 
 Spirn. *Language of Landscape.* Pp. 3-81.
 
-[Meyerowitz, Joel. "Nature of Cities."](http://www.joelmeyerowitz.com/)
+{{% resource_link "f6804f35-ba74-4fc8-903b-c8c3f4219014" "Meyerowitz, Joel. \"Nature of Cities.\"" %}}
 
 ### Further Readings:
 
